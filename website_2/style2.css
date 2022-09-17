@@ -7,7 +7,7 @@ div {
     height: 300px;
   }
   #PageName{
-    color:rgba(0, 0, 0, 0);
+    color:rgb(0, 0, 0);
   }
   .ToTheLeft {
     float:left;
