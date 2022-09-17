@@ -1,0 +1,25 @@
+h1 {
+    font-family: Verdana;
+    color: rgb(240, 198, 81);
+    border-left: 5px solid rgb(240,198,81);
+  }
+  img{
+    float: right;
+  }
+  h2 {
+    font-family: Verdana;
+    color: rgb(240, 198, 81);
+    border-left: 5px solid rgb(240,198,81);
+  }
+  ul {
+    font-family: Verdana;
+    list-style-image: 
+  }
+  ol
+  {
+    font-family: Verdana;
+  }
+  body
+  {
+  
+  }
