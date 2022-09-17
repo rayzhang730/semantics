@@ -3,11 +3,11 @@ div {
     float: left;
   }
   img {
-    width:100%;
+    width:50%;
     height: 300px;
   }
   #PageName{
-    color:rgb(255,25,25);
+    color:rgba(0, 0, 0, 0);
   }
   .ToTheLeft {
     float:left;
