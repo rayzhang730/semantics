@@ -7,6 +7,13 @@ body {
   background-color: white;
   line-height: 20px;
 }
+
+img {
+   position: relative;
+   left: 3em;
+
+  }
+
 p {
   font-family: "Averia Libre", cursive;
   color: black;
